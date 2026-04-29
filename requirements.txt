@@ -1,1 +1,9 @@
-
+torch
+torchvision
+timm==0.9.12
+librosa
+opencv-python
+scikit-learn
+mlflow
+matplotlib
+tqdm
